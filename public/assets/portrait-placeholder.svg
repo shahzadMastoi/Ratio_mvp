@@ -1,0 +1,8 @@
+<!-- public/assets/portrait-placeholder.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="100%" height="100%" fill="#e6f7f7" />
+  <g transform="translate(80,60)">
+    <circle cx="220" cy="160" r="120" fill="#ffffff" stroke="#d0eaea" stroke-width="6" />
+    <rect x="40" y="300" width="360" height="160" rx="10" fill="#ffffff" stroke="#d0eaea" />
+  </g>
+</svg>
